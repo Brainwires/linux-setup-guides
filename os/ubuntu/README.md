@@ -2,6 +2,8 @@
 
 Setting up a new Ubuntu installation involves several crucial steps to ensure your server runs smoothly and securely. This guide will walk you through the essential steps and considerations when preparing a new Ubuntu operating system.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJlbJO-WDuQ" frameborder="0" allowfullscreen></iframe>
+
 ## Basic Server Setup
 
 ### 1. Update and Upgrade Ubuntu
